@@ -1,0 +1,25 @@
+{
+  "name": "timeseriesbigquery",
+  "version": "1.0.0",
+  "description": "Pubsub to bigquery",
+  "main": "index.js",
+  "dependencies": {
+    "@google-cloud/bigquery": "^1.3.0",
+    "parse-json": "^4.0.0",
+    "safe-buffer": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francoisoudot/gcloud-timeseriesbigquery.git"
+  },
+  "author": "F Oudot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francoisoudot/gcloud-timeseriesbigquery/issues"
+  },
+  "homepage": "https://github.com/francoisoudot/gcloud-timeseriesbigquery#readme"
+}
